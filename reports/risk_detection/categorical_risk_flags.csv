@@ -1,0 +1,44 @@
+,Cardinality,Most_Frequent,Most_Freq_Count,Most_Freq_Pct,Missing%,Rare_Categories,High_Cardinality,Imbalanced_Dominant_Class,Has_Rare_Categories,Any_Risk_Flag
+Neighborhood,28,NAmes,443,15.119453924914675,0.0,20,True,False,True,True
+Exterior 2nd,17,VinylSd,1015,34.641638225255974,0.0,12,True,False,True,True
+Exterior 1st,16,VinylSd,1026,35.01706484641638,0.0,11,True,False,True,True
+Sale Type,10,WD ,2536,86.55290102389078,0.0,8,False,True,True,True
+Condition 1,9,Norm,2522,86.07508532423208,0.0,7,False,True,True,True
+Condition 2,8,Norm,2900,98.97610921501706,0.0,7,False,True,True,True
+Roof Matl,8,CompShg,2887,98.53242320819112,0.0,7,False,True,True,True
+Functional,8,Typ,2728,93.10580204778157,0.0,7,False,True,True,True
+House Style,8,1Story,1481,50.546075085324226,0.0,5,False,False,True,True
+MS Zoning,7,RL,2273,77.57679180887372,0.0,5,False,False,True,True
+BsmtFin Type 2,6,Unf,2580,88.05460750853243,0.0,5,False,True,True,True
+Heating,6,GasA,2885,98.46416382252559,0.0,5,False,True,True,True
+Roof Style,6,Gable,2321,79.21501706484642,0.0,4,False,False,True,True
+Foundation,6,PConc,1310,44.7098976109215,0.0,3,False,False,True,True
+Garage Type,6,Attchd,1888,64.43686006825938,0.0,3,False,False,True,True
+Sale Condition,6,Normal,2413,82.35494880546075,0.0,3,False,True,True,True
+Bsmt Cond,5,TA,2696,92.0136518771331,0.0,4,False,True,True,True
+Garage Qual,5,TA,2774,94.67576791808874,0.0,4,False,True,True,True
+Garage Cond,5,TA,2824,96.38225255972696,0.0,4,False,True,True,True
+Misc Feature,5,Shed,2919,99.62457337883959,0.0,4,False,True,True,True
+Bldg Type,5,1Fam,2425,82.76450511945393,0.0,3,False,True,True,True
+Exter Cond,5,TA,2549,86.99658703071673,0.0,3,False,True,True,True
+Electrical,5,SBrkr,2683,91.56996587030717,0.0,3,False,True,True,True
+Fireplace Qu,5,Gd,2166,73.92491467576792,0.0,3,False,False,True,True
+Lot Config,5,Inside,2140,73.03754266211604,0.0,2,False,False,True,True
+Bsmt Qual,5,TA,1363,46.518771331058026,0.0,2,False,False,True,True
+Heating QC,5,Ex,1495,51.02389078498294,0.0,2,False,False,True,True
+Kitchen Qual,5,TA,1494,50.98976109215017,0.0,2,False,False,True,True
+Land Contour,4,Lvl,2633,89.86348122866895,0.0,3,False,True,True,True
+Pool QC,4,Ex,2921,99.69283276450513,0.0,3,False,True,True,True
+Fence,4,MnPrv,2688,91.74061433447099,0.0,3,False,True,True,True
+Lot Shape,4,Reg,1859,63.44709897610922,0.0,2,False,False,True,True
+Mas Vnr Type,4,BrkFace,2655,90.61433447098976,0.0,2,False,True,True,True
+Exter Qual,4,TA,1799,61.39931740614335,0.0,2,False,False,True,True
+Utilities,3,AllPub,2927,99.89761092150171,0.0,2,False,True,True,True
+Land Slope,3,Gtl,2789,95.18771331058021,0.0,2,False,True,True,True
+Paved Drive,3,Y,2652,90.51194539249147,0.0,1,False,True,True,True
+Street,2,Pave,2918,99.59044368600682,0.0,1,False,True,True,True
+Alley,2,Grvl,2852,97.33788395904438,0.0,1,False,True,True,True
+Central Air,2,Y,2734,93.31058020477816,0.0,0,False,True,False,True
+BsmtFin Type 1,6,GLQ,939,32.04778156996587,0.0,0,False,False,False,False
+Bsmt Exposure,4,No,1989,67.88395904436861,0.0,0,False,False,False,False
+Garage Finish,3,Unf,1390,47.44027303754266,0.0,0,False,False,False,False
